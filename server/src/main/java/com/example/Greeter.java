@@ -6,7 +6,7 @@ public class Greeter {
   
   public Greeter() {
     // constructor
-
+    //
     //
   }
 
