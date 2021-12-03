@@ -5,9 +5,7 @@ public class Greeter {
 
   
   public Greeter() {
-    // constructor
-    //
-    //
+
   }
 
   public final String greet(final String someone) {
